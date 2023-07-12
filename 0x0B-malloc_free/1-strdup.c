@@ -1,11 +1,11 @@
-#include "main.h"
-#include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
 
 /**
- * main - check the code for ALX School students.
+ * *_strdup - copies the string given as parameter
+ * @str: string to duplicate
  *
- * Return: Always 0.
+ * Return: pointer to the copied string (Success), NULL (Error)
  */
 char *_strdup(char *str)
 {
