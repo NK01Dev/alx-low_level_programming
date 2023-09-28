@@ -1,0 +1,1 @@
+manipulation bit in c
